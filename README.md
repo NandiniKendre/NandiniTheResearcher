@@ -122,8 +122,7 @@ Custom control logic for hardware accelerators and embedded systems.
 
 ### 📫 Connect With Me
 
-* LinkedIn: [Your LinkedIn Profile]
-* GitHub: [Your GitHub Profile]
+* LinkedIn: https://www.linkedin.com/in/nandini-kendre-11312a227?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 *"Transforming algorithms into silicon."*
 
