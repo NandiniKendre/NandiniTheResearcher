@@ -12,6 +12,9 @@ I am a Senior Research Fellow working under the **C2S (Chips to Startup) Program
 
 My work focuses on **digital VLSI design, ASIC implementation, FPGA prototyping, and hardware acceleration for computationally intensive applications**.
 
+Education
+M.Tech – VLSI Design
+
 ### 🔭 Currently Working On
 
 * ASIC implementation of high-performance digital systems
