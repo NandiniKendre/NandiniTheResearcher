@@ -1,127 +1,100 @@
-# 👋 Hi, I'm Nandini Kendre
+Hi, I'm Nandini Kendre 👋
+Senior Research Fellow | VLSI & ASIC Design Engineer | FPGA-Based ML Accelerators
 
-### 🎓 Senior Research Fellow | C2S (Chips to Startup), MeitY, Government of India
+I am a Senior Research Fellow working under the C2S (Chips to Startup) Program, sponsored by the Ministry of Electronics and Information Technology (MeitY), Government of India.
 
-### 🔬 VLSI Design | ASIC Design Flow | FPGA Prototyping | Digital Design
+My work focuses on Digital VLSI Design, ASIC Implementation, FPGA Prototyping, and Hardware Acceleration for Machine Learning and Computational Biology Applications. I am passionate about transforming complex algorithms into efficient silicon architectures and building scalable hardware solutions for next-generation computing systems.
 
----
+🚀 Current Research & Development
+FPGA-Based Hardware Acceleration for DNA Sequencing Applications
+RTL-to-GDSII ASIC Implementation Flow
+Machine Learning Hardware Accelerators
+Digital Signal Processing Architectures
+High-Performance Computing Hardware
+Semiconductor IP Development
+🛠 Technical Expertise
+Digital Design & RTL Development
+Verilog HDL
+RTL Design & Microarchitecture
+Finite State Machines (FSM)
+Pipelined Architectures
+High-Performance Digital Systems
+Parameterizable IP Design
+ASIC Design Flow
+RTL Design
+Functional Verification
+Logic Synthesis
+Logical Equivalence Checking (LEC)
+Static Timing Analysis (STA)
+Gate-Level Simulation
+Physical Design Fundamentals
+Timing Closure Methodologies
+FPGA Development
+Xilinx Vivado
+Xilinx Vitis
+FPGA Prototyping
+Hardware Acceleration
+Performance Optimization
+EDA Tools
+Cadence Genus
+Cadence Innovus
+Cadence SimVision
+ModelSim / QuestaSim
+Synopsys Design Compiler (Learning)
+🔬 Research Interests
+ASIC Design & Physical Implementation
+Hardware Accelerators for AI/ML
+FPGA-Based Computing Systems
+Digital Signal Processing Architectures
+Bioinformatics Hardware Acceleration
+Edge AI Hardware
+Semiconductor IP Development
+High-Performance Computing Systems
+📌 Featured Projects
+RTL-to-GDSII Viterbi Decoder ASIC
 
-## 👩‍💻 About Me
+Complete ASIC implementation of a K=7 Viterbi Decoder including:
 
-I am a Senior Research Fellow working under the **C2S (Chips to Startup) Program** sponsored by the Ministry of Electronics and Information Technology (MeitY), Government of India.
+RTL Design
+Functional Verification
+Logic Synthesis
+Logical Equivalence Checking (LEC)
+Static Timing Analysis (STA)
+Physical Design & Signoff Flow
+AXI4-Stream Convolutional Encoder & Viterbi Decoder IP
 
-My work focuses on **digital VLSI design, ASIC implementation, FPGA prototyping, and hardware acceleration for computationally intensive applications**.
+Custom FPGA-oriented AXI4-Stream IP implementing a complete communication subsystem with streaming data interfaces.
 
-Education
-M.Tech – VLSI Design
+AXI4-Stream HMM Modulation Classifier IP
 
-### 🔭 Currently Working On
+Custom hardware accelerator for automatic modulation classification using HMM-inspired likelihood-based decision architectures.
 
-* ASIC implementation of high-performance digital systems
-* RTL-to-GDSII design flow
-* Physical design, timing closure, and chip implementation
-* FPGA-based hardware acceleration for DNA sequencing applications
+UniGD FPGA Accelerator
 
-### 🤝 Looking to Collaborate On
+Unified pipelined FPGA accelerator for analytical and numerical gradient descent optimization in Edge AI applications.
 
-* ASIC/VLSI Design Projects
-* RTL Design and Verification
-* FPGA Prototyping
-* Digital Signal Processing Architectures
-* Hardware Acceleration for AI/ML Applications
+ML-Based DNA Sequencing Hardware Accelerator
 
-### 🌱 Currently Learning
+FPGA implementation of machine-learning-assisted computational pipelines for high-throughput DNA sequencing applications.
 
-* Advanced Physical Design
-* Design for Testability (DFT)
-* Static Timing Analysis (STA)
-* Low-Power VLSI Design
-* Hardware-Software Co-Design
+🌱 Currently Exploring
+Advanced Physical Design
+Design for Testability (DFT)
+Low-Power VLSI Design
+Hardware-Software Co-Design
+AI Accelerator Architectures
+Semiconductor Startup Ecosystems
+🤝 Open to Collaborations
 
-### 💬 Ask Me About
+I am interested in collaborating on:
 
-* Verilog RTL Design
-* FSM Design & Optimization
-* FIFO Architectures
-* FPGA Development
-* ASIC Design Flow (RTL → Synthesis → Physical Design → STA → GDSII)
-* Digital System Design
-
----
-
-# 🛠 Technical Skills
-
-## Hardware Description Languages
-
-* Verilog HDL
-* RTL Design
-* FSM Design
-* Pipelined Architectures
-* Digital System Design
-
-## ASIC Design Flow
-
-* RTL Design
-* Logic Synthesis
-* Static Timing Analysis (STA)
-* Gate-Level Simulation
-* Timing Closure
-* Physical Design Fundamentals
-
-## FPGA & EDA Tools
-
-* Xilinx Vivado
-* Xilinx Vitis
-* ModelSim / QuestaSim
-* Cadence Genus
-* Cadence Innovus
-* Synopsys Design Compiler (Learning)
-
-## Domains
-
-* VLSI Design
-* ASIC Design
-* FPGA Prototyping
-* Machine Learning Hardware Acceleration
-* Bioinformatics Hardware
-* Digital Signal Processing
-
----
-
-# 🚀 Featured Projects
-
-### 🔹 ML-Based DNA Sequencing Hardware Accelerator
-
-FPGA implementation of machine learning algorithms for high-throughput DNA sequencing applications.
-
-### 🔹 Viterbi Decoder ASIC Implementation
-
-Complete RTL-to-GDSII implementation including synthesis, STA, gate-level simulation, and physical design.
-
-### 🔹 FFT Processor (Verilog)
-
-High-performance pipelined FFT architecture for DSP applications.
-
-### 🔹 FIFO Design & Verification
-
-Parameterizable FIFO architectures with simulation and timing validation.
-
-### 🔹 FSM-Based Digital Controllers
-
-Custom control logic for hardware accelerators and embedded systems.
-
----
-
-# 📈 Research Interests
-
-* ASIC Design & Physical Implementation
-* Hardware Accelerators for AI/ML
-* FPGA-Based Computing Systems
-* Digital Signal Processing Architectures
-* Bioinformatics Hardware Acceleration
-* High-Performance Computing Hardware
-
----
+ASIC Design Projects
+RTL Design & Verification
+FPGA Prototyping
+AI/ML Hardware Accelerators
+DSP Hardware Architectures
+Semiconductor Research Initiatives
+Industry-Academia Collaborations
 
 ### 📫 Connect With Me
 
