@@ -130,7 +130,7 @@ I am interested in collaborating on:
 
 ## 📚 Professional Profiles
 
-* LinkedIn: [www.linkedin.com/in/nandini-kendre-11312a227](https://l.instagram.com/?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnandini-kendre-11312a227%3Futm_source%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dmember_ios%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnPzpaPxr0i-gWrT9gKsU-CQFc89JGwKiKSCBhN1XiJ-5cGqaqc-mVS5i72lk_aem_FtD4J0MDdpaPscUWi0PZXA&e=AUBwJmrDgxXvPk3AroPiV1DpLeUhFcvDPZS718OAxH-4Mfnco06fInf_IbDoFLTlFYLXf3_8pHtvMtcXmMTYmpezOMRWsxv22giTSN6zxiIuImk9jbaIvF5klCFTAkAfx3wII-s))
+* LinkedIn: [www.linkedin.com/in/nandini-kendre-11312a227](https://l.instagram.com/?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnandini-kendre-11312a227%3Futm_source%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dmember_ios%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnPzpaPxr0i-gWrT9gKsU-CQFc89JGwKiKSCBhN1XiJ-5cGqaqc-mVS5i72lk_aem_FtD4J0MDdpaPscUWi0PZXA&e=AUBwJmrDgxXvPk3AroPiV1DpLeUhFcvDPZS718OAxH-4Mfnco06fInf_IbDoFLTlFYLXf3_8pHtvMtcXmMTYmpezOMRWsxv22giTSN6zxiIuImk9jbaIvF5klCFTAkAfx3wII-s)
 * ORCID: 0009-0000-2848-2601
 ---
 
