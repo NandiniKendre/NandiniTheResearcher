@@ -1,141 +1,136 @@
-# Hi, I'm Nandini Kendre🌷
+# Hi, I'm Nandini Kendre🌷 
 
-### Senior Research Fellow | VLSI & ASIC Design Engineer | FPGA-Based ML Accelerators
+### 🚀 FPGA | ASIC | RTL Design | Physical Design Engineer
 
-I am a Senior Research Fellow working under the **C2S (Chips to Startup) Program**, sponsored by the **Ministry of Electronics and Information Technology (MeitY), Government of India**.
-
-My work focuses on **Digital VLSI Design, ASIC Implementation, FPGA Prototyping, and Hardware Acceleration for Machine Learning and Computational Biology Applications**. I am passionate about transforming complex algorithms into efficient silicon architectures and building scalable hardware solutions for next-generation computing systems.
+Passionate VLSI Engineer with expertise in FPGA Prototyping, ASIC Design Flow, RTL Design, Physical Design, Verification, and AI Hardware Acceleration. Currently working as a Senior Research Fellow under the C2S Program, MeitY, Government of India, focusing on advanced semiconductor and hardware accelerator research.
 
 ---
 
-## 🚀 Current Research & Development
+## 🌟 About Me
 
-* FPGA-Based Hardware Acceleration for DNA Sequencing Applications
-* RTL-to-GDSII ASIC Implementation Flow
-* Machine Learning Hardware Accelerators
-* Digital Signal Processing Architectures
-* High-Performance Computing Hardware
-* Semiconductor IP Development
+* 🔭 Currently working on **ASIC and FPGA-based AI Accelerators**
+* 🌱 Learning **Advanced Physical Design, DFT, and AI Hardware Architectures**
+* 👯 Looking to collaborate on **Open-Source VLSI, FPGA, and ASIC Projects**
+* 🤝 Open to research collaborations in **Semiconductor Design and AI Hardware**
+* 💬 Ask me about **RTL Design, FPGA Prototyping, ASIC Flow, Physical Design, Verilog, SystemVerilog, and VLSI Career Guidance**
+* 📫 Reach me at: **[nandinikendre08@gmail.com](mailto:your.email@example.com)**
+* ⚡ Fun Fact: **Turning hardware ideas into silicon is my passion!**
 
 ---
 
-## 🛠 Technical Expertise
+# 🎓 Current Role
 
-### Digital Design & RTL Development
+**Senior Research Fellow (SRF)**
+**Chip to Startup (C2S) Program**
+**Ministry of Electronics and Information Technology (MeitY), Government of India**
 
-* Verilog HDL
-* RTL Design & Microarchitecture
-* Finite State Machines (FSM)
-* Pipelined Architectures
-* High-Performance Digital Systems
-* Parameterizable IP Design
+Working on:
 
-### ASIC Design Flow
+* FPGA-based AI Accelerators
+* ASIC Design Flow
+* RTL-to-GDSII Implementation
+* Hardware-Software Co-Design
+* VLSI Research & Development
 
-* RTL Design
-* Functional Verification
-* Logic Synthesis
-* Logical Equivalence Checking (LEC)
-* Static Timing Analysis (STA)
-* Gate-Level Simulation
-* Physical Design Fundamentals
-* Timing Closure Methodologies
+---
+
+# 🛠️ Technical Skills
+
+### RTL Design
+
+![Verilog](https://img.shields.io/badge/Verilog-FF6600?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-CC0000?style=for-the-badge)
+![VHDL](https://img.shields.io/badge/VHDL-006699?style=for-the-badge)
 
 ### FPGA Development
 
-* Xilinx Vivado
-* Xilinx Vitis
-* FPGA Prototyping
-* Hardware Acceleration
-* Performance Optimization
+![Xilinx](https://img.shields.io/badge/Xilinx-Vivado-E01F27?style=for-the-badge)
+![Zynq Ultrascale+](https://img.shields.io/badge/Zynq-UltraScale+-0099CC?style=for-the-badge)
+![Vitis](https://img.shields.io/badge/Vitis-FFCC00?style=for-the-badge)
+
+### ASIC Design
+
+![ASIC](https://img.shields.io/badge/ASIC-Design-blue?style=for-the-badge)
+![Synthesis](https://img.shields.io/badge/Logic-Synthesis-green?style=for-the-badge)
+![STA](https://img.shields.io/badge/Static-Timing%20Analysis-orange?style=for-the-badge)
+![DFT](https://img.shields.io/badge/DFT-purple?style=for-the-badge)
+
+### Physical Design
+
+* Floorplanning
+* Power Planning
+* Placement
+* Clock Tree Synthesis (CTS)
+* Routing
+* Physical Verification
+* Signoff
 
 ### EDA Tools
 
-* Cadence Genus
 * Cadence Innovus
-* Cadence SimVision
-* ModelSim / QuestaSim
-* Synopsys Design Compiler (Learning)
+* Cadence Genus
+* Synopsys Design Compiler
+* Synopsys PrimeTime
+* Xilinx Vivado
+* Xilinx Vitis
+* QuestaSim
+* ModelSim
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TCL](https://img.shields.io/badge/TCL-FFCC00?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
 
 ---
 
-## 🔬 Research Interests
+# 📂 Featured Projects
 
-* ASIC Design & Physical Implementation
-* Hardware Accelerators for AI/ML
-* FPGA-Based Computing Systems
-* Digital Signal Processing Architectures
-* Bioinformatics Hardware Acceleration
-* Edge AI Hardware
-* Semiconductor IP Development
-* High-Performance Computing Systems
+### ⭐ RTL-to-GDSII Projects
 
----
+* RISC-V Processor ASIC Implementation
+* Viterbi Decoder ASIC Flow
+* FIR Filter ASIC Design
+* CNN Accelerator RTL-to-GDSII
+* AI Hardware Accelerator on FPGA
 
-## 📌 Featured Projects
+### ⭐ FPGA Projects
 
-### RTL-to-GDSII Viterbi Decoder ASIC
+* RTL-Based Vanilla RNN Accelerator on Zynq UltraScale+ MPSoC
+* AXI-Based High-Speed Data Transfer System
+* Hardware Accelerated Neural Networks
 
-Complete ASIC implementation of a K=7 Viterbi Decoder including:
+### ⭐ Verification Projects
 
-* RTL Design
-* Functional Verification
-* Logic Synthesis
-* Logical Equivalence Checking (LEC)
-* Static Timing Analysis (STA)
-* Physical Design & Signoff Flow
-
-### AXI4-Stream Convolutional Encoder & Viterbi Decoder IP
-
-Custom FPGA-oriented AXI4-Stream IP implementing a complete communication subsystem with streaming data interfaces.
-
-### AXI4-Stream HMM Modulation Classifier IP
-
-Custom hardware accelerator for automatic modulation classification using HMM-inspired likelihood-based decision architectures.
-
-### UniGD FPGA Accelerator
-
-Unified pipelined FPGA accelerator for analytical and numerical gradient descent optimization in Edge AI applications.
-
-### ML-Based DNA Sequencing Hardware Accelerator
-
-FPGA implementation of machine-learning-assisted computational pipelines for high-throughput DNA sequencing applications.
+* UVM Testbench Development
+* Functional Verification of Digital IPs
+* Assertion-Based Verification
 
 ---
 
-## 🌱 Currently Exploring
+# 📈 GitHub Statistics
 
-* Advanced Physical Design
-* Design for Testability (DFT)
-* Low-Power VLSI Design
-* Hardware-Software Co-Design
-* AI Accelerator Architectures
-* Semiconductor Startup Ecosystems
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&theme=tokyonight\&show_icons=true)
 
----
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME\&theme=tokyonight)
 
-## 🤝 Open to Collaborations
-
-I am interested in collaborating on:
-
-* ASIC Design Projects
-* RTL Design & Verification
-* FPGA Prototyping
-* AI/ML Hardware Accelerators
-* DSP Hardware Architectures
-* Semiconductor Research Initiatives
-* Industry-Academia Collaborations
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 📚 Professional Profiles
+# 🌐 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/nandini-kendre-11312a227](https://l.instagram.com/?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnandini-kendre-11312a227%3Futm_source%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dmember_ios%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnPzpaPxr0i-gWrT9gKsU-CQFc89JGwKiKSCBhN1XiJ-5cGqaqc-mVS5i72lk_aem_FtD4J0MDdpaPscUWi0PZXA&e=AUBwJmrDgxXvPk3AroPiV1DpLeUhFcvDPZS718OAxH-4Mfnco06fInf_IbDoFLTlFYLXf3_8pHtvMtcXmMTYmpezOMRWsxv22giTSN6zxiIuImk9jbaIvF5klCFTAkAfx3wII-s)
 * ORCID: 0009-0000-2848-2601
 ---
 
-## 💡 Vision
 
-My long-term goal is to develop high-performance semiconductor IP and hardware accelerator solutions that bridge advanced algorithms and efficient silicon implementations for AI, communication systems, and computational biology applications.
+---
 
-> *Transforming algorithms into silicon.*
+## 💡 Quote
+
+> "Designing silicon today to power the innovations of tomorrow."
+
+---
+
+### ⭐ If you like my work, don't forget to star my repositories!
