@@ -24,6 +24,52 @@ Passionate VLSI Engineer with expertise in FPGA Prototyping, ASIC Design Flow, R
 </div>
 
 
+## 🌟 Featured Research Work
+
+### 📄 UniGD: A Unified Pipelined FPGA Accelerator for Analytical and Numerical Gradient Descent in Edge AI
+
+📍 **IEEE VLSID 2026**
+🔗 https://ieeexplore.ieee.org/document/11433261
+
+**Highlights:**
+
+* FPGA-based acceleration of Gradient Descent algorithms
+* Unified architecture supporting both analytical and numerical optimization
+* Edge AI deployment with low-latency processing
+
+---
+
+### 📄 Hardware Acceleration of K-Means Clustering Algorithm
+
+📍 **Springer Lecture Notes in Networks and Systems, 2026**
+🔗 https://link.springer.com/chapter/10.1007/978-3-032-06677-0_47
+
+**Highlights:**
+
+* FPGA implementation of K-Means clustering
+* High-throughput hardware architecture
+* Optimized resource utilization for machine learning workloads
+
+---
+
+### 📄 Implementation of Banded Smith-Waterman Sequence Alignment Algorithm on CPU and FPGA
+
+📍 **Research Square, 2024**
+🔗 https://doi.org/10.21203/rs.3.rs-4627486/v1
+
+**Highlights:**
+
+* Hardware acceleration of bioinformatics sequence alignment
+* Comparative CPU vs FPGA performance analysis
+* Efficient implementation of banded dynamic programming architecture
+
+### 📝 Publications in Process
+📄 Publications | Springer • Elsevier
+<!-- PUBLICATIONS:START -->
+- "FPGA - Based Implementation of CNN : A Survey"
+- "AXI-Stream Based FPGA Architecture for High-Throughput HMM Acceleration in DNA Base-Calling"
+- "FPGA Implementation of a Low-Latency Automatic Modulation Classifier Using Parallel Likelihood Computation"
+<!-- PUBLICATIONS:END -->
 # 🎓 Current Role
 
 **Senior Research Fellow (SRF)**
